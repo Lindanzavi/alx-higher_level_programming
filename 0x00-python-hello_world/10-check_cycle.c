@@ -24,4 +24,3 @@ listint_t *fast = list;
 
 	return (0);
 }
-
